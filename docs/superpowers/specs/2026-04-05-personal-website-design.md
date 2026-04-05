@@ -79,7 +79,7 @@ The post will draw on Fatima's deep experience with the HashiCorp stack (Nomad, 
 ## Project Structure
 
 ```
-breadcrumbs-dev/
+srely.dev/
 ├── hugo.toml                # Hugo config (site title, menus, params)
 ├── content/
 │   ├── _index.md            # Home page content
@@ -102,7 +102,7 @@ breadcrumbs-dev/
 
 ## Deployment
 
-- **Repository:** `breadcrumbs-dev` on GitHub
+- **Repository:** `srely.dev` on GitHub
 - **Netlify config:** Connect GitHub repo, build command `hugo`, publish directory `public/`
 - **Workflow:** Write markdown → push to `main` → Netlify auto-deploys
 

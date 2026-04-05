@@ -57,7 +57,7 @@ Expected: Output shows Hugo version (v0.140+ expected).
 
 Run:
 ```bash
-cd /Users/fatima/git/breadcrumbs-dev
+cd /Users/fatima/git/srely.dev
 git init
 ```
 Expected: `Initialized empty Git repository`
@@ -591,9 +591,9 @@ git commit -m "feat: add Netlify build configuration"
 
 Run:
 ```bash
-gh repo create breadcrumbs-dev --public --source=. --push
+gh repo create srely.dev --public --source=. --push
 ```
-Expected: Repo created at `github.com/fat0/breadcrumbs-dev` and code pushed.
+Expected: Repo created at `github.com/fat0/srely.dev` and code pushed.
 
 Note: If Fatima prefers a private repo, use `--private` instead of `--public`. Ask before running.
 
@@ -601,7 +601,7 @@ Note: If Fatima prefers a private repo, use `--private` instead of `--public`. A
 
 Run:
 ```bash
-gh repo view fat0/breadcrumbs-dev
+gh repo view fat0/srely.dev
 ```
 Expected: Shows repo details with all commits.
 
@@ -616,7 +616,7 @@ This task requires manual steps in the Netlify UI.
 1. Go to https://app.netlify.com
 2. Click "Add new site" → "Import an existing project"
 3. Select GitHub → authorize if needed
-4. Select the `breadcrumbs-dev` repository
+4. Select the `srely.dev` repository
 5. Build settings should auto-populate from `netlify.toml`:
    - Build command: `hugo`
    - Publish directory: `public`
