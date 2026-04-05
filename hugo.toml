@@ -1,0 +1,15 @@
+baseURL = "https://example.netlify.app/"
+languageCode = "en-us"
+title = "Fatima Mojaddidy"
+
+[params]
+  description = "Senior Site Reliability Engineer. From film school to Pixar to cloud-native infrastructure."
+  email = "fatima.mojaddidy@gmail.com"
+  linkedin = "https://www.linkedin.com/in/fatimamojaddidy"
+  github = "https://github.com/fat0"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1

@@ -1,0 +1,11 @@
+public/
+resources/
+.hugo_build.lock
+.superpowers/
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+key.properties
