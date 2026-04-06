@@ -19,7 +19,7 @@ Came back for round two — lifetime access, so why not. This time I showed up w
 
 A few things that hit different after building with agents...
 
-- How you set up a project matters a lot. Tools like [OpenSpec](https://github.com/Fission-AI/OpenSpec/) and [Superpowers](https://github.com/obra/superpowers) help you lay that groundwork before the agents start going brrr.
+- How you set up a project matters a lot. Tools like [OpenSpec](https://github.com/Fission-AI/OpenSpec/) and [Superpowers](https://github.com/obra/superpowers) help you lay that groundwork before you unleash the agents.
 - The tooling moves terrifyingly fast. What you learned yesterday might already be outdated. Get cozy with that feeling.
 - Your first draft will look like spaghetti — and that's totally fine. Refactoring is cheap now. Let the agents get you to a working MVP, then worry about making it efficient, resilient, scalable, clean... later.
 - That said — guard your secrets like your life depends on it. Tell your agents upfront: no credentials in git, ever. Bake security in from day zero, not as an afterthought.
