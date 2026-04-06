@@ -11,3 +11,7 @@
   - If a new secret-bearing file type is introduced, add it to `.gitignore` before committing
 
   If the user pastes a secret in the conversation, warn them immediately and recommend rotating it.
+
+## Git Commit Policy
+
+- **Never add `Co-Authored-By` lines to commit messages**

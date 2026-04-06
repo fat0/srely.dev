@@ -1,15 +1,9 @@
 baseURL = "https://srely.dev/"
 languageCode = "en-us"
-title = "Fatima Mojaddidy"
+title = "SREly.dev"
 
 [params]
   description = "Senior Site Reliability Engineer. Lifelong journey that began with building storage and render farms for vfx/animation... to building cloud-native infrastructure."
   email = "fatima.mojaddidy@gmail.com"
   linkedin = "https://www.linkedin.com/in/fatimamojaddidy"
   github = "https://github.com/fat0"
-
-[menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 1

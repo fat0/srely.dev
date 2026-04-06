@@ -7,13 +7,13 @@
 
 /* Base */
 body {
-  font-family: system-ui, -apple-system, sans-serif;
-  line-height: 1.6;
-  max-width: 700px;
+  font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', Menlo, monospace;
+  line-height: 1.7;
+  max-width: 720px;
   margin: 0 auto;
-  padding: 2rem 1rem;
-  color: #222;
-  background: #fff;
+  padding: 2rem 1.5rem;
+  color: #8b949e;
+  background: #0d1117;
 }
 
 /* Nav */
@@ -23,13 +23,17 @@ nav {
   align-items: center;
   margin-bottom: 3rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #21262d;
 }
 
 nav .site-title {
   font-weight: 700;
   text-decoration: none;
-  color: #222;
+  color: #58a6ff;
+}
+
+nav .site-title:hover {
+  color: #79c0ff;
 }
 
 nav ul {
@@ -39,18 +43,40 @@ nav ul {
 }
 
 nav a {
-  color: #555;
+  color: #8b949e;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #222;
+  color: #e0e0e0;
 }
 
 /* Main content */
-h1 { font-size: 2rem; margin-bottom: 0.5rem; }
-h2 { font-size: 1.4rem; margin-top: 2.5rem; margin-bottom: 0.5rem; }
-h3 { font-size: 1.1rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+h1 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #58a6ff;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  color: #58a6ff;
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #79c0ff;
+}
+
+.subtitle {
+  color: #8b949e;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
 
 p { margin-bottom: 1rem; }
 
@@ -59,8 +85,12 @@ ul, ol {
   padding-left: 1.5rem;
 }
 
-a { color: #0066cc; }
-a:hover { color: #004499; }
+li {
+  margin-bottom: 0.3rem;
+}
+
+a { color: #58a6ff; }
+a:hover { color: #79c0ff; }
 
 /* Sections */
 section {
@@ -71,18 +101,18 @@ section {
 footer {
   margin-top: 4rem;
   padding-top: 1rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #21262d;
   font-size: 0.9rem;
-  color: #777;
+  color: #484f58;
 }
 
 footer a {
-  color: #555;
+  color: #8b949e;
   text-decoration: none;
 }
 
 footer a:hover {
-  color: #222;
+  color: #e0e0e0;
 }
 
 /* Blog list */
@@ -104,12 +134,12 @@ footer a:hover {
 .post-list time {
   display: block;
   font-size: 0.85rem;
-  color: #888;
+  color: #484f58;
 }
 
 .post-list .description {
   font-size: 0.95rem;
-  color: #555;
+  color: #8b949e;
   margin-top: 0.25rem;
 }
 
@@ -117,7 +147,7 @@ footer a:hover {
 article time {
   display: block;
   font-size: 0.9rem;
-  color: #888;
+  color: #484f58;
   margin-bottom: 2rem;
 }
 
@@ -130,7 +160,7 @@ article img {
 
 /* Code blocks */
 pre {
-  background: #f5f5f5;
+  background: #161b22;
   padding: 1rem;
   border-radius: 4px;
   overflow-x: auto;
@@ -139,12 +169,12 @@ pre {
 }
 
 code {
-  font-family: 'SF Mono', Menlo, monospace;
+  font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', Menlo, monospace;
   font-size: 0.9em;
 }
 
 p code {
-  background: #f5f5f5;
+  background: #161b22;
   padding: 0.15rem 0.3rem;
   border-radius: 3px;
 }
