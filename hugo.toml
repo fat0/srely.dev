@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "SREly.dev"
 
 [params]
-  description = "SREly, you didn't think reliability was boring? Dispatches from 20 years of keeping things running — now with robots."
+  description = "SREly, you didn't think reliability was boring? Dispatches from keeping things running — now with robots."
   email = "fatima.mojaddidy@gmail.com"
   linkedin = "https://www.linkedin.com/in/fatimamojaddidy"
   github = "https://github.com/fat0"
