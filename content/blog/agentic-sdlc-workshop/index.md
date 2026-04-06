@@ -5,7 +5,7 @@ description: "What I learned building two projects with AI agents — from Multi
 draft: false
 ---
 
-Hey — are you drowning in the AI noise too? Same. There's a firehose of content out there and I had zero idea where to begin. Worse, I felt morally tangled up in all of it. But I'd been following [Liz](https://www.lizthe.dev/) on socials, vibed with their politics, and figured if anyone was going to teach this stuff without the techbro energy, it'd be them. So I signed up for the [Agentic SDLC workshop](https://themultiverse.school/classes/193) at [The Multiverse School](https://themultiverse.school/). Turns out it was the on-ramp I'd been looking for — hands-on, welcoming, zero judgment. I'm eyeing their [Intro to Agents: 1-Day Intensive](https://themultiverse.school/classes/192) next.
+Hey — are you drowning in the AI noise too? Same. There's a firehose of content out there and I had zero idea where to begin. I'd been following [Liz](https://www.lizthe.dev/) on socials, vibed with their politics, and figured if anyone was going to teach this stuff with similarly aligned politics, it'd be them. So I signed up for the [Agentic SDLC workshop](https://themultiverse.school/classes/193) at [The Multiverse School](https://themultiverse.school/). Turns out it was the on-ramp I'd been looking for — hands-on, welcoming, zero judgment. I'm eyeing their [Intro to Agents: 1-Day Intensive](https://themultiverse.school/classes/192) next.
 
 ### > Workshop #1
 
