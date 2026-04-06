@@ -7,7 +7,7 @@ subtitle: "Fatima Mojaddidy // SRE"
 
 I studied film production, then spent years building the infrastructure behind animated films — managing render pipelines and scaling storage from terabytes to petabytes. That path led me from visual effects into cloud infrastructure and eventually into Site Reliability Engineering.
 
-> Twenty years later, I'm still doing the same thing at the core — building systems that let people do their best work without worrying about what's underneath.
+> The stack evolved, the problems got cloudier, but the gig? Same as it ever was — build systems that let people do their best work without worrying about what's underneath.
 
 ## > musings
 
