@@ -12,6 +12,12 @@
 
   If the user pastes a secret in the conversation, warn them immediately and recommend rotating it.
 
-## Git Commit Policy
+## Git Workflow
 
-- **Never add `Co-Authored-By` lines to commit messages**
+  **`main` is protected. Never push directly to main.**
+
+  - Create a feature branch for all work (e.g., `feat/hijri-calendar`, `fix/asr-cache`)
+  - Commit to the feature branch
+  - Submit a PR to merge into main
+  - Wait for user approval before merging
+  - **Never add `Co-Authored-By` lines to commit messages**
