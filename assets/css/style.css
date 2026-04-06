@@ -144,6 +144,10 @@ footer a:hover {
 }
 
 /* Blog post */
+article .subtitle {
+  font-style: italic;
+}
+
 article time {
   display: block;
   font-size: 0.9rem;
